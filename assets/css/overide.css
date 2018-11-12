@@ -1,0 +1,13 @@
+a:hover{
+  text-decoration: none;
+  color: #663399;
+}
+.site-header{
+  background-color: bisque;
+}
+.site-header a:hover{
+  color: #c9b2f6;
+}
+.site-footer{
+  background-color: #CAE4E4;
+}
