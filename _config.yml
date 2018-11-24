@@ -14,12 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Cat Kim Blog
-email: your-email@example.com
+email: cat.kim.fed@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal website and blog of Catherine Kim front end developer.
 baseurl: "/myBlog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: catkim
+twitter_username: cat_kim
 github_username:  catkim
 
 # Build settings
